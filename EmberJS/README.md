@@ -11,9 +11,10 @@
 
 ###Articles
 * [An In Depth Introduction](http://www.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
-* [A good explanation of Partials, Helpers, Views, and Components](http://discuss.emberjs.com/t/whats-the-difference-between-ember-helpers-components-and-views/2201/2)
-* [A good explanation of Components vs Views](http://stackoverflow.com/questions/18593424/views-vs-components-in-ember-js)
+* [Explanation of Partials, Helpers, Views, and Components](http://discuss.emberjs.com/t/whats-the-difference-between-ember-helpers-components-and-views/2201/2)
+* [Components vs Views](http://stackoverflow.com/questions/18593424/views-vs-components-in-ember-js)
 * [5 Useful Tips](http://say26.com/five-useful-tips-for-ember-js-developers)
+* [Getting started with ember](http://talks.erikbryn.com/getting-started-with-ember)
 
 ###Tools
 * [Ember App Kit](http://iamstef.net/ember-app-kit/)
