@@ -16,6 +16,7 @@
 * [5 Useful Tips](http://say26.com/five-useful-tips-for-ember-js-developers)
 * [Getting started with ember](http://talks.erikbryn.com/getting-started-with-ember)
 * [The Missing EmberJS tutorial](https://www.openshift.com/blogs/day-19-ember-the-missing-emberjs-tutorial)
+* [Mixins](http://codingvalue.com/blog/emberjs-mixins/)
 
 ###Tools
 * [Ember App Kit](http://iamstef.net/ember-app-kit/)
